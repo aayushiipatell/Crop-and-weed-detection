@@ -1,0 +1,11 @@
+path: C:/Projects/CropWeed/datasets/processed
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+
+names:
+  0: crop
+  1: weed
